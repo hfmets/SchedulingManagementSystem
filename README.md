@@ -11,3 +11,5 @@ Theres is also a few different reports that can be created with the press of a b
 
 A SQL script is provided in the repo to build a database should you wish to try the app yourself.
 The code points out where you may need to change out some parameters to the connector object and the repo has images that consist of the same info.
+
+The code to setup the DB connection is in the schedulingmanagementsystem.java file under src/schedulingmanagementsystem/
